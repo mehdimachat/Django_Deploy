@@ -1,4 +1,4 @@
-from mcp.server.fastmcp import FastMCP
+from fastmcp import FastMCP
 
 # Créer une instance du serveur MCP
 mcp = FastMCP(name="Calculator")
