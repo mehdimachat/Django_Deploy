@@ -1,0 +1,54 @@
+{
+  "flights": [
+    {
+      "flight_number": "AF123",
+      "airline": "Air France",
+      "destination": "Paris",
+      "departure": "08:00",
+      "arrival": "10:30",
+      "status": "on time",
+      "gate": "A12",
+      "terminal": "1"
+    },
+    {
+      "flight_number": "BA456",
+      "airline": "British Airways",
+      "destination": "London",
+      "departure": "09:15",
+      "arrival": "11:45",
+      "status": "delayed",
+      "gate": "B07",
+      "terminal": "2"
+    },
+    {
+      "flight_number": "LH789",
+      "airline": "Lufthansa",
+      "destination": "Berlin",
+      "departure": "10:30",
+      "arrival": "12:15",
+      "status": "boarding",
+      "gate": "C03",
+      "terminal": "1"
+    },
+    {
+      "flight_number": "EK321",
+      "airline": "Emirates",
+      "destination": "Dubai",
+      "departure": "14:00",
+      "arrival": "22:30",
+      "status": "scheduled",
+      "gate": "D15",
+      "terminal": "3"
+    },
+    {
+      "flight_number": "AA654",
+      "airline": "American Airlines",
+      "destination": "New York",
+      "departure": "16:45",
+      "arrival": "20:00",
+      "status": "cancelled",
+      "gate": "E09",
+      "terminal": "2"
+    }
+  ]
+}
